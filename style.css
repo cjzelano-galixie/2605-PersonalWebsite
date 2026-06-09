@@ -211,7 +211,7 @@ section > ul > li:hover {
 }
 
 .contactPage {
-  background-image: url(/Unit1CareerSim/imgs/contactMebkgrd.jpg);
+  background-image: url(imgs/contactMebkgrd.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
